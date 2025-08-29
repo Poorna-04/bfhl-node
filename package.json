@@ -1,0 +1,14 @@
+{
+  "name": "bfhl-node",
+  "version": "1.0.0",
+  "description": "BFHL Qualifier API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2"
+  }
+}
